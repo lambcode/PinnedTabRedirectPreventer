@@ -22,5 +22,6 @@
    "permissions": [ "tabs", "storage" ],
    "short_name": "Pinned Tab Redirect Preventer",
    "update_url": "https://clients2.google.com/service/update2/crx",
+   "homepage_url": "https://github.com/lambcode/PinnedTabRedirectPreventer",
    "version": "0.0.1"
 }
